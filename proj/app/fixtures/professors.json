@@ -1,0 +1,14 @@
+[
+    {
+      "model": "app.userprofile",
+      "pk": 1,
+      "fields": {
+        "email": "professor@example.com",
+        "is_active": true,
+        "is_staff": false,
+        "is_student": false,
+        "is_professor": true
+      }
+    }
+  ]
+  
